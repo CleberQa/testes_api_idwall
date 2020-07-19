@@ -1,0 +1,7 @@
+dev:
+  msg:
+    birth_date_invalid: 'Inválido. [ERROR] Não foi possível validar: Data de nascimento informada está divergente da constante na base de dados da Secretaria da Receita Federal do Brasil.'
+    name_invalid: 'Inválido. [INVALID] Nome diferente do cadastrado na Receita Federal. [INVALID] Não foi possível emit...IAFEDERAL). Não é possível verificar se a pessoa possui antecedentes criminais, dados não conferem.'
+    status_concluido: 'CONCLUIDO'
+    resultado_invalid: 'INVALID'
+    resultado_valid: 'VALID'

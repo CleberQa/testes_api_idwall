@@ -1,0 +1,7 @@
+.irb-history
+.DS_Store
+temp
+*.lock
+*.log
+*.html
+*.png

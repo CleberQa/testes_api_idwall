@@ -1,0 +1,7 @@
+dev:
+  user:
+    birth_date: 25/05/1987
+    name: Gabriel Oliveira
+    document: 07614917677
+    birth_date_invalid: 28/09/1988
+    name_invalid: teste qa
